@@ -1,5 +1,6 @@
 # academic-performance-prediction
 Introduction
+
 With the growing emphasis on data-driven decision-making in education, the ability to accurately predict student performance has become increasingly important for academic institutions and policymakers alike. This project aims to enhance academic performance prediction by developing a system capable of identifying patterns in student data. Such predictive models are essential not only for enabling early interventions and support planning but also for informing teaching strategies and curriculum design tailored to students' needs.
 
 For instance, university admissions are essentially a prediction task — selecting candidates who are most likely to succeed academically. At many universities in Kazakhstan, including Nazarbayev University, admissions rely solely on standardized multiple-choice tests. While this offers objectivity, it fails to account for qualitative or contextual factors. A more nuanced, data-driven approach can complement existing practices by incorporating broader predictors without compromising fairness.
